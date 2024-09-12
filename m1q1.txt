@@ -1,0 +1,43 @@
+Cienna Gin-Naccarato (Student ID# 260965061) 
+
+
+Q1.1 
+J= 74
+O= 79 
+S= 83
+E= 69
+Null= 0 
+
+JOSE in ASCII: 74 79 83 69 0 
+
+
+Q1.2 
+J= 74= 01001010 
+O= 79= 01001111
+S= 83= 01010011
+E= 69= 01000101
+Null= 0 = 00000000
+
+JOSE in binary: 01001010 01001111 01010011 01000101 00000000
+
+Q1.3
+J = LHLLHLHL 
+O = LHLLHHHH 
+S = LHLHLLHH 
+E = LHLLLHLH 
+Null = LLLLLLLL
+
+JOSE in sound waves: LHLLHLHL LHLLHHHH LHLHLLHH LHLLLHLH LLLLLLLL
+
+Q1.4 
+J= LHLLHLHL = CDBB
+O= LHLLHHHH = CDAA 
+S= LHLHLLHH = CCDA
+E= LHLLLHLH = CDCC
+Null = LLLLLLLL = DDDD
+
+JOSE in modulated sound: CDBB CDAA CCDA CDCC DDDD
+
+Q1.5
+We are saving 4 bits per letter since each letter of 'JOSE' can be represented using 4 letters compared to 8. This totals to 20 sound-bits being saved  when transmitting modulated sounds compared to unmodulated sounds. 
+
